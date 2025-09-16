@@ -1068,7 +1068,7 @@ if Library.Holder then
                     FontFace = getfontfromname('WindowsXPTahoma'),
                     TextColor3 = Color3.fromRGB(85, 85, 85),
                     BorderColor3 = Color3.fromRGB(0, 0, 0),
-                    Text = Tab.Name,
+                    Text = Section.Name,
                     Name = "Text",
                     AnchorPoint = Vector2.new(0.5, 0.5),
                     BackgroundTransparency = 1,
